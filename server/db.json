@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "React is amazing!",
+      "author": "Yovany Luis"
+    },
+    {
+      "id": 2,
+      "title": "Redux for begginers",
+      "author": "Dan Abramov"
+    },
+    {
+      "id": 3,
+      "title": "Redux Saga for advanced",
+      "author": "Jose Lopez"
+    },
+    {
+      "title": "asd",
+      "author": "asd",
+      "id": 4
+    },
+    {
+      "title": "Hello",
+      "author": "World",
+      "id": 5
+    },
+    {
+      "title": "Hello",
+      "author": "World",
+      "id": 6
+    }
+  ]
+}
